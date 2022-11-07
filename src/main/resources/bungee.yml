@@ -1,0 +1,3 @@
+name: BungeeMsg
+version: '${project.version}'
+main: net.sinender.cumbungee.BungeeMsg

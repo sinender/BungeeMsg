@@ -1,0 +1,7 @@
+mongo:
+  useSSL: false
+  uri: "localhost"
+  database: "test"
+  pubsub: "test"
+
+
